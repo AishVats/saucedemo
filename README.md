@@ -6,6 +6,7 @@
 * run tests via plain Protractor `node_modules/.bin/protractor conf.js`
 * run tests `npm test` (runs via flake, which re-runs failed tests)
 * run with flake `./flake conf.js`
+* run with `npm run e2e:prod:functional`
 
 ## Troubleshooting
 * run `node -v` and make sure your node version is 8.x.x or greater
